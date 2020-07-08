@@ -1,0 +1,5 @@
+E:\pemrograman\Responsi Pemrograman\Responsi Pemrograman\bin\Debug\Responsi Pemrograman.exe.config
+E:\pemrograman\Responsi Pemrograman\Responsi Pemrograman\bin\Debug\Responsi Pemrograman.exe
+E:\pemrograman\Responsi Pemrograman\Responsi Pemrograman\bin\Debug\Responsi Pemrograman.pdb
+E:\pemrograman\Responsi Pemrograman\Responsi Pemrograman\obj\Debug\Responsi Pemrograman.exe
+E:\pemrograman\Responsi Pemrograman\Responsi Pemrograman\obj\Debug\Responsi Pemrograman.pdb
